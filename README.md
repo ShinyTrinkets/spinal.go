@@ -1,2 +1,3 @@
-# spinal.go
-Offline organizer
+# Zero-f
+
+This project is incubating 🥚
